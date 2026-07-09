@@ -1,0 +1,627 @@
+extension,mime_type,magic_bytes,offset,has_wildcard,signature_index,description,group,execution_risk
+,application/octet-stream,23 21,0,FALSE,1,Script or data to be passed to the program following the shebang (#!),other,none
+cwk,application/octet-stream,02 00 5A 57 52 54 00 00 00 00 00 00 00 00 00 00,0,FALSE,1,Claris Works word processing doc,other,none
+cwk,application/octet-stream,05 07 00 00 42 4F 42 4F,0,FALSE,2,Claris Works word processing doc,other,none
+cwk,application/octet-stream,05 07 00 00 00 00 00 00,0,FALSE,3,Claris Works word processing doc,other,none
+cwk,application/octet-stream,00 00 00 00 00 01,0,FALSE,4,Claris Works word processing doc,other,none
+cwk,application/octet-stream,06 07 E1 00 42 4F 42 4F,0,FALSE,5,Claris Works word processing doc,other,none
+cwk,application/octet-stream,06 07 E1 00 00 00 00 00,0,FALSE,6,Claris Works word processing doc,other,none
+wk1,application/octet-stream,00 00 02 00 06 04 06 00 08 00 00 00 00 00,0,FALSE,1,Lotus 1-2-3 spreadsheet (v1) file,other,none
+wk3,application/octet-stream,00 00 1A 00 00 10 04 00 00 00 00 00,0,FALSE,1,Lotus 1-2-3 spreadsheet (v3) file,other,none
+wk4,application/octet-stream,00 00 1A 00 02 10 04 00 00 00 00 00,0,FALSE,1,"Lotus 1-2-3 spreadsheet (v4, v5) file",other,none
+wk5,application/octet-stream,00 00 1A 00 02 10 04 00 00 00 00 00,0,FALSE,1,"Lotus 1-2-3 spreadsheet (v4, v5) file",other,none
+123,application/octet-stream,00 00 1A 00 05 10 04,0,FALSE,1,Lotus 1-2-3 spreadsheet (v9) file,other,none
+,application/octet-stream,00 00 03 F3,0,FALSE,1,Amiga Hunk executable file,other,none
+qxd,application/octet-stream,00 00 49 49 58 50 52,0,FALSE,1,Quark Express document,other,none
+qxd,application/octet-stream,00 00 4D 4D 58 50 52,0,FALSE,2,Quark Express document,other,none
+psafe3,application/octet-stream,50 57 53 33,0,FALSE,1,Password Gorilla Password Database,other,none
+pcap,application/octet-stream,D4 C3 B2 A1,0,FALSE,1,Libpcap File Format,other,none
+pcap,application/octet-stream,A1 B2 C3 D4,0,FALSE,2,Libpcap File Format,other,none
+pcap,application/octet-stream,4D 3C B2 A1,0,FALSE,3,Libpcap File Format,other,none
+pcap,application/octet-stream,A1 B2 3C 4D,0,FALSE,4,Libpcap File Format,other,none
+pcapng,application/octet-stream,0A 0D 0D 0A,0,FALSE,1,PCAP Next Generation Dump File Format,other,none
+rpm,application/octet-stream,ED AB EE DB,0,FALSE,1,RedHat Package Manager (RPM) package,other,none
+sqlitedb,application/octet-stream,53 51 4C 69 74 65 20 66,0,FALSE,1,SQLite Database,other,none
+sqlitedb,application/octet-stream,6F 72 6D 61 74 20 33 00,0,FALSE,2,SQLite Database,other,none
+sqlite,application/octet-stream,53 51 4C 69 74 65 20 66,0,FALSE,1,SQLite Database,other,none
+sqlite,application/octet-stream,6F 72 6D 61 74 20 33 00,0,FALSE,2,SQLite Database,other,none
+db,application/octet-stream,53 51 4C 69 74 65 20 66,0,FALSE,1,SQLite Database,other,none
+db,application/octet-stream,6F 72 6D 61 74 20 33 00,0,FALSE,2,SQLite Database,other,none
+bin,application/octet-stream,53 50 30 31,0,FALSE,1,Amazon Kindle Update Package,other,none
+bin,application/octet-stream,7F 45 4C 46,0,FALSE,2,Amazon Kindle Update Package,other,none
+wad,application/octet-stream,49 57 41 44,0,FALSE,1,internal WAD (main resource file of Doom ),other,none
+pic,application/octet-stream,00,0,FALSE,1,IBM Storyboard bitmap file Windows Program Information File Mac Stuffit Self-Extracting Archive IRIS OCR data file,other,none
+pif,application/octet-stream,00,0,FALSE,1,IBM Storyboard bitmap file Windows Program Information File Mac Stuffit Self-Extracting Archive IRIS OCR data file,other,none
+sea,application/octet-stream,00,0,FALSE,1,IBM Storyboard bitmap file Windows Program Information File Mac Stuffit Self-Extracting Archive IRIS OCR data file,other,none
+ytr,application/octet-stream,00,0,FALSE,1,IBM Storyboard bitmap file Windows Program Information File Mac Stuffit Self-Extracting Archive IRIS OCR data file,other,none
+pdb,application/octet-stream,00 00 00 00 00 00 00 00,11,FALSE,1,PalmPilot Database/Document File,other,none
+dba,application/octet-stream,BE BA FE CA,0,FALSE,1,Palm Desktop Calendar Archive,other,none
+dba,application/octet-stream,00 01 42 44,0,FALSE,2,Palm Desktop Calendar Archive,other,none
+tda,application/octet-stream,00 01 44 54,0,FALSE,1,Palm Desktop Calendar Archive,other,none
+,application/octet-stream,54 44 46 24,0,FALSE,1,Telegram Desktop File,other,none
+tdef,application/octet-stream,54 44 45 46,0,FALSE,1,Telegram Desktop Encrypted File,other,none
+,application/octet-stream,00 01 00 00,0,FALSE,1,Palm Desktop Data File ( Access format),other,none
+ico,application/octet-stream,00 00 01 00,0,FALSE,1,Computer icon encoded in ICO file format,other,none
+icns,application/octet-stream,69 63 6E 73,0,FALSE,1,Apple Icon Image format,other,none
+3gp,application/octet-stream,66 74 79 70 33 67,4,FALSE,1,3rd Generation Partnership Project 3GPP and 3GPP2 multimedia files,other,none
+3g2,application/octet-stream,66 74 79 70 33 67,4,FALSE,1,3rd Generation Partnership Project 3GPP and 3GPP2 multimedia files,other,none
+heic,application/octet-stream,66 74 79 70 68 65 69 74 79 70 6D,4,FALSE,1,High Efficiency Image Container (HEIC),other,none
+z,application/octet-stream,1F 9D,0,FALSE,1,compressed file (often tar zip) using Lempel-Ziv-Welch algorithm,other,none
+z,application/octet-stream,1F A0,0,FALSE,2,compressed file (often tar zip) using Lempel-Ziv-Welch algorithm,other,none
+tarz,application/octet-stream,1F 9D,0,FALSE,1,compressed file (often tar zip) using Lempel-Ziv-Welch algorithm,other,none
+tarz,application/octet-stream,1F A0,0,FALSE,2,compressed file (often tar zip) using Lempel-Ziv-Welch algorithm,other,none
+lzh,application/octet-stream,2D 6C 68 30 2D,2,FALSE,1,Lempel Ziv Huffman archive file Method 0 (No compression),other,none
+lzh,application/octet-stream,2D 6C 68 35 2D,2,FALSE,2,Lempel Ziv Huffman archive file Method 0 (No compression),other,none
+bac,application/octet-stream,42 41 43 4B 4D 49 4B 45,0,FALSE,1,AmiBack Amiga Backup data file,other,none
+bac,application/octet-stream,44 49 53 4B,0,FALSE,2,AmiBack Amiga Backup data file,other,none
+idx,application/octet-stream,49 4E 44 58,0,FALSE,1,AmiBack Amiga Backup index file,other,none
+plist,application/octet-stream,62 70 6C 69 73 74,0,FALSE,1,Binary Property List file,other,none
+bz2,application/octet-stream,42 5A 68,0,FALSE,1,Compressed file using Bzip2 algorithm,other,none
+gif,application/octet-stream,47 49 46 38 37 61,0,FALSE,1,Image file encoded in the Graphics Interchange Format (GIF),other,none
+gif,application/octet-stream,47 49 46 38 39 61,0,FALSE,2,Image file encoded in the Graphics Interchange Format (GIF),other,none
+tif,application/octet-stream,49 49 2A 00,0,FALSE,1,Tagged Image File Format (TIFF),other,none
+tif,application/octet-stream,4D 4D 00 2A,0,FALSE,2,Tagged Image File Format (TIFF),other,none
+tiff,application/octet-stream,49 49 2A 00,0,FALSE,1,Tagged Image File Format (TIFF),other,none
+tiff,application/octet-stream,4D 4D 00 2A,0,FALSE,2,Tagged Image File Format (TIFF),other,none
+,application/octet-stream,49 49 2B 00,0,FALSE,1,BigTIFF,other,none
+,application/octet-stream,4D 4D 00 2B,0,FALSE,1,BigTIFF,other,none
+cr2,application/octet-stream,49 49 2A 00 10 00 00 00,0,FALSE,1,Canon RAW Format Version 2  Canon's RAW format is based on TIFF.,other,none
+cr2,application/octet-stream,43 52,0,FALSE,2,Canon RAW Format Version 2  Canon's RAW format is based on TIFF.,other,none
+cin,application/octet-stream,80 2A 5F D7,0,FALSE,1,Kodak Cineon image,other,none
+,application/octet-stream,52 4E 43 01,0,FALSE,1,Compressed file using Rob Northen Compression (version 1 and 2) algorithm,other,none
+,application/octet-stream,52 4E 43 02,0,FALSE,1,Compressed file using Rob Northen Compression (version 1 and 2) algorithm,other,none
+nui,application/octet-stream,4E 55 52 55 49 4D 47,0,FALSE,1,nuru ASCII/ANSI image and palette files,other,none
+nui,application/octet-stream,4E 55 52 55 50 41 4C,0,FALSE,2,nuru ASCII/ANSI image and palette files,other,none
+nup,application/octet-stream,4E 55 52 55 49 4D 47,0,FALSE,1,nuru ASCII/ANSI image and palette files,other,none
+nup,application/octet-stream,4E 55 52 55 50 41 4C,0,FALSE,2,nuru ASCII/ANSI image and palette files,other,none
+dpx,application/octet-stream,53 44 50 58 FA,0,FALSE,1,SMPTE DPX image,other,none
+dpx,application/octet-stream,58 50 44 53 FA,0,FALSE,2,SMPTE DPX image,other,none
+exr,application/octet-stream,76 2F 31 01,0,FALSE,1,OpenEXR image,other,none
+bpg,application/octet-stream,42 50 47 FB,0,FALSE,1,Better Portable Graphics format,other,none
+jpg,application/octet-stream,FF D8 FF DB,0,FALSE,1,JPEG raw or in the JFIF or Exif file format,other,none
+jpg,application/octet-stream,FF D8 FF E0 00 10 4A 46,0,FALSE,2,JPEG raw or in the JFIF or Exif file format,other,none
+jpg,application/octet-stream,49 46 00 01,0,FALSE,3,JPEG raw or in the JFIF or Exif file format,other,none
+jpg,application/octet-stream,FF D8 FF EE,0,FALSE,4,JPEG raw or in the JFIF or Exif file format,other,none
+jpg,application/octet-stream,FF D8 FF E1 ?? ?? 45 78,0,TRUE,5,JPEG raw or in the JFIF or Exif file format,other,none
+jpg,application/octet-stream,69 66 00 00,0,FALSE,6,JPEG raw or in the JFIF or Exif file format,other,none
+jpg,application/octet-stream,FF D8 FF E0,0,FALSE,7,JPEG raw or in the JFIF or Exif file format,other,none
+jpeg,application/octet-stream,FF D8 FF DB,0,FALSE,1,JPEG raw or in the JFIF or Exif file format,other,none
+jpeg,application/octet-stream,FF D8 FF E0 00 10 4A 46,0,FALSE,2,JPEG raw or in the JFIF or Exif file format,other,none
+jpeg,application/octet-stream,49 46 00 01,0,FALSE,3,JPEG raw or in the JFIF or Exif file format,other,none
+jpeg,application/octet-stream,FF D8 FF EE,0,FALSE,4,JPEG raw or in the JFIF or Exif file format,other,none
+jpeg,application/octet-stream,FF D8 FF E1 ?? ?? 45 78,0,TRUE,5,JPEG raw or in the JFIF or Exif file format,other,none
+jpeg,application/octet-stream,69 66 00 00,0,FALSE,6,JPEG raw or in the JFIF or Exif file format,other,none
+jp2,application/octet-stream,00 00 00 0C 6A 50 20 20 0D 0A 87 0A,0,FALSE,1,JPEG 2000 format,other,none
+jp2,application/octet-stream,FF 4F FF 51,0,FALSE,2,JPEG 2000 format,other,none
+j2k,application/octet-stream,00 00 00 0C 6A 50 20 20 0D 0A 87 0A,0,FALSE,1,JPEG 2000 format,other,none
+j2k,application/octet-stream,FF 4F FF 51,0,FALSE,2,JPEG 2000 format,other,none
+jpf,application/octet-stream,00 00 00 0C 6A 50 20 20 0D 0A 87 0A,0,FALSE,1,JPEG 2000 format,other,none
+jpf,application/octet-stream,FF 4F FF 51,0,FALSE,2,JPEG 2000 format,other,none
+jpm,application/octet-stream,00 00 00 0C 6A 50 20 20 0D 0A 87 0A,0,FALSE,1,JPEG 2000 format,other,none
+jpm,application/octet-stream,FF 4F FF 51,0,FALSE,2,JPEG 2000 format,other,none
+jpg2,application/octet-stream,00 00 00 0C 6A 50 20 20 0D 0A 87 0A,0,FALSE,1,JPEG 2000 format,other,none
+jpg2,application/octet-stream,FF 4F FF 51,0,FALSE,2,JPEG 2000 format,other,none
+j2c,application/octet-stream,00 00 00 0C 6A 50 20 20 0D 0A 87 0A,0,FALSE,1,JPEG 2000 format,other,none
+j2c,application/octet-stream,FF 4F FF 51,0,FALSE,2,JPEG 2000 format,other,none
+jpc,application/octet-stream,00 00 00 0C 6A 50 20 20 0D 0A 87 0A,0,FALSE,1,JPEG 2000 format,other,none
+jpc,application/octet-stream,FF 4F FF 51,0,FALSE,2,JPEG 2000 format,other,none
+jpx,application/octet-stream,00 00 00 0C 6A 50 20 20 0D 0A 87 0A,0,FALSE,1,JPEG 2000 format,other,none
+jpx,application/octet-stream,FF 4F FF 51,0,FALSE,2,JPEG 2000 format,other,none
+mj2,application/octet-stream,00 00 00 0C 6A 50 20 20 0D 0A 87 0A,0,FALSE,1,JPEG 2000 format,other,none
+mj2,application/octet-stream,FF 4F FF 51,0,FALSE,2,JPEG 2000 format,other,none
+qoi,application/octet-stream,71 6F 69 66,0,FALSE,1,QOI - The “Quite OK Image Format”,other,none
+ilbm,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF Interleaved Bitmap Image,other,none
+ilbm,application/octet-stream,49 4C 42 4D,0,FALSE,2,IFF Interleaved Bitmap Image,other,none
+lbm,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF Interleaved Bitmap Image,other,none
+lbm,application/octet-stream,49 4C 42 4D,0,FALSE,2,IFF Interleaved Bitmap Image,other,none
+ibm,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF Interleaved Bitmap Image,other,none
+ibm,application/octet-stream,49 4C 42 4D,0,FALSE,2,IFF Interleaved Bitmap Image,other,none
+iff,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF Interleaved Bitmap Image,other,none
+iff,application/octet-stream,49 4C 42 4D,0,FALSE,2,IFF Interleaved Bitmap Image,other,none
+iff,application/octet-stream,38 53 56 58,0,FALSE,3,IFF Interleaved Bitmap Image,other,none
+iff,application/octet-stream,41 43 42 4D,0,FALSE,4,IFF Interleaved Bitmap Image,other,none
+iff,application/octet-stream,41 4E 42 4D,0,FALSE,5,IFF Interleaved Bitmap Image,other,none
+iff,application/octet-stream,41 4E 49 4D,0,FALSE,6,IFF Interleaved Bitmap Image,other,none
+iff,application/octet-stream,46 41 58 58,0,FALSE,7,IFF Interleaved Bitmap Image,other,none
+iff,application/octet-stream,46 54 58 54,0,FALSE,8,IFF Interleaved Bitmap Image,other,none
+iff,application/octet-stream,53 4D 55 53,0,FALSE,9,IFF Interleaved Bitmap Image,other,none
+iff,application/octet-stream,43 4D 55 53,0,FALSE,10,IFF Interleaved Bitmap Image,other,none
+iff,application/octet-stream,59 55 56 4E,0,FALSE,11,IFF Interleaved Bitmap Image,other,none
+iff,application/octet-stream,46 41 4E 54,0,FALSE,12,IFF Interleaved Bitmap Image,other,none
+iff,application/octet-stream,41 49 46 46,0,FALSE,13,IFF Interleaved Bitmap Image,other,none
+8svx,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF 8-Bit Sampled Voice,other,none
+8svx,application/octet-stream,38 53 56 58,0,FALSE,2,IFF 8-Bit Sampled Voice,other,none
+8sv,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF 8-Bit Sampled Voice,other,none
+8sv,application/octet-stream,38 53 56 58,0,FALSE,2,IFF 8-Bit Sampled Voice,other,none
+svx,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF 8-Bit Sampled Voice,other,none
+svx,application/octet-stream,38 53 56 58,0,FALSE,2,IFF 8-Bit Sampled Voice,other,none
+snd,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF 8-Bit Sampled Voice,other,none
+snd,application/octet-stream,38 53 56 58,0,FALSE,2,IFF 8-Bit Sampled Voice,other,none
+snd,application/octet-stream,41 49 46 46,0,FALSE,3,IFF 8-Bit Sampled Voice,other,none
+snd,application/octet-stream,2E 73 6E 64,0,FALSE,4,IFF 8-Bit Sampled Voice,other,none
+acbm,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,Amiga Contiguous Bitmap,other,none
+acbm,application/octet-stream,41 43 42 4D,0,FALSE,2,Amiga Contiguous Bitmap,other,none
+anbm,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF Animated Bitmap,other,none
+anbm,application/octet-stream,41 4E 42 4D,0,FALSE,2,IFF Animated Bitmap,other,none
+anim,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF CEL Animation,other,none
+anim,application/octet-stream,41 4E 49 4D,0,FALSE,2,IFF CEL Animation,other,none
+faxx,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF Facsimile Image,other,none
+faxx,application/octet-stream,46 41 58 58,0,FALSE,2,IFF Facsimile Image,other,none
+fax,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF Facsimile Image,other,none
+fax,application/octet-stream,46 41 58 58,0,FALSE,2,IFF Facsimile Image,other,none
+ftxt,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF Formatted Text,other,none
+ftxt,application/octet-stream,46 54 58 54,0,FALSE,2,IFF Formatted Text,other,none
+smus,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF Simple Musical Score,other,none
+smus,application/octet-stream,53 4D 55 53,0,FALSE,2,IFF Simple Musical Score,other,none
+smu,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF Simple Musical Score,other,none
+smu,application/octet-stream,53 4D 55 53,0,FALSE,2,IFF Simple Musical Score,other,none
+mus,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF Simple Musical Score,other,none
+mus,application/octet-stream,53 4D 55 53,0,FALSE,2,IFF Simple Musical Score,other,none
+mus,application/octet-stream,43 4D 55 53,0,FALSE,3,IFF Simple Musical Score,other,none
+cmus,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF Musical Score,other,none
+cmus,application/octet-stream,43 4D 55 53,0,FALSE,2,IFF Musical Score,other,none
+yuvn,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF YUV Image,other,none
+yuvn,application/octet-stream,59 55 56 4E,0,FALSE,2,IFF YUV Image,other,none
+yuv,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,IFF YUV Image,other,none
+yuv,application/octet-stream,59 55 56 4E,0,FALSE,2,IFF YUV Image,other,none
+aiff,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,Audio Interchange File Format,other,none
+aiff,application/octet-stream,41 49 46 46,0,FALSE,2,Audio Interchange File Format,other,none
+aif,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,Audio Interchange File Format,other,none
+aif,application/octet-stream,41 49 46 46,0,FALSE,2,Audio Interchange File Format,other,none
+aifc,application/octet-stream,46 4F 52 4D ?? ?? ?? ??,0,TRUE,1,Audio Interchange File Format,other,none
+aifc,application/octet-stream,41 49 46 46,0,FALSE,2,Audio Interchange File Format,other,none
+lz,application/octet-stream,4C 5A 49 50,0,FALSE,1,lzip compressed file,other,none
+cpio,application/octet-stream,30 37 30 37 30 31,0,FALSE,1,"cpio ""new"" ASCII archive file",other,none
+cpio,application/octet-stream,30 37 30 37 30 32,0,FALSE,2,"cpio ""new"" ASCII archive file",other,none
+cpio,application/octet-stream,30 37 30 37 30 37,0,FALSE,3,"cpio ""new"" ASCII archive file",other,none
+exe,application/octet-stream,4D 5A,0,FALSE,1,DOS MZ executable and its descendants (including NE and PE ),other,high
+exe,application/octet-stream,5A 4D,0,FALSE,2,DOS MZ executable and its descendants (including NE and PE ),other,high
+dll,application/octet-stream,4D 5A,0,FALSE,1,DOS MZ executable and its descendants (including NE and PE ),other,none
+mui,application/octet-stream,4D 5A,0,FALSE,1,DOS MZ executable and its descendants (including NE and PE ),other,none
+sys,application/octet-stream,4D 5A,0,FALSE,1,DOS MZ executable and its descendants (including NE and PE ),other,none
+sys,application/octet-stream,AA AA AA AA,0,FALSE,2,DOS MZ executable and its descendants (including NE and PE ),other,none
+scr,application/octet-stream,4D 5A,0,FALSE,1,DOS MZ executable and its descendants (including NE and PE ),other,high
+cpl,application/octet-stream,4D 5A,0,FALSE,1,DOS MZ executable and its descendants (including NE and PE ),other,none
+ocx,application/octet-stream,4D 5A,0,FALSE,1,DOS MZ executable and its descendants (including NE and PE ),other,none
+ax,application/octet-stream,4D 5A,0,FALSE,1,DOS MZ executable and its descendants (including NE and PE ),other,none
+iec,application/octet-stream,4D 5A,0,FALSE,1,DOS MZ executable and its descendants (including NE and PE ),other,none
+ime,application/octet-stream,4D 5A,0,FALSE,1,DOS MZ executable and its descendants (including NE and PE ),other,none
+rs,application/octet-stream,4D 5A,0,FALSE,1,DOS MZ executable and its descendants (including NE and PE ),other,none
+rs,application/octet-stream,52 53 56 4B 44 41 54 41,0,FALSE,2,DOS MZ executable and its descendants (including NE and PE ),other,none
+tsp,application/octet-stream,4D 5A,0,FALSE,1,DOS MZ executable and its descendants (including NE and PE ),other,none
+fon,application/octet-stream,4D 5A,0,FALSE,1,DOS MZ executable and its descendants (including NE and PE ),other,none
+efi,application/octet-stream,4D 5A,0,FALSE,1,DOS MZ executable and its descendants (including NE and PE ),other,none
+ssp,application/octet-stream,53 4D 53 4E 46 32 30 30,0,FALSE,1,SmartSniff Packets File,other,none
+zip,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+zip,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+zip,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+aar,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+aar,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+aar,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+apk,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+apk,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+apk,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+docx,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+docx,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+docx,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+epub,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+epub,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+epub,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+ipa,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+ipa,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+ipa,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+jar,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+jar,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+jar,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+kmz,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+kmz,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+kmz,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+maff,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+maff,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+maff,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+msix,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+msix,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+msix,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+odp,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+odp,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+odp,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+ods,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+ods,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+ods,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+odt,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+odt,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+odt,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+pk3,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+pk3,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+pk3,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+pk4,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+pk4,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+pk4,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+pptx,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+pptx,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+pptx,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+usdz,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+usdz,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+usdz,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+vsdx,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+vsdx,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+vsdx,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+xlsx,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+xlsx,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+xlsx,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+xpi,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+xpi,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+xpi,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+whl,application/octet-stream,50 4B 03 04,0,FALSE,1,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+whl,application/octet-stream,50 4B 05 06,0,FALSE,2,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+whl,application/octet-stream,50 4B 07 08,0,FALSE,3,"zip file format and formats based on it, such as EPUB , JAR , ODF , OOXML",other,none
+rar,application/octet-stream,52 61 72 21 1A 07 00,0,FALSE,1,Roshal ARchive compressed archive v1.50 onwards,other,none
+rar,application/octet-stream,52 61 72 21 1A 07 01 00,0,FALSE,2,Roshal ARchive compressed archive v1.50 onwards,other,none
+axf,application/octet-stream,7F 45 4C 46,0,FALSE,1,Executable and Linkable Format,other,none
+elf,application/octet-stream,7F 45 4C 46,0,FALSE,1,Executable and Linkable Format,other,none
+o,application/octet-stream,7F 45 4C 46,0,FALSE,1,Executable and Linkable Format,other,none
+out,application/octet-stream,7F 45 4C 46,0,FALSE,1,Executable and Linkable Format,other,none
+prx,application/octet-stream,7F 45 4C 46,0,FALSE,1,Executable and Linkable Format,other,none
+puff,application/octet-stream,7F 45 4C 46,0,FALSE,1,Executable and Linkable Format,other,none
+ko,application/octet-stream,7F 45 4C 46,0,FALSE,1,Executable and Linkable Format,other,none
+mod,application/octet-stream,7F 45 4C 46,0,FALSE,1,Executable and Linkable Format,other,none
+so,application/octet-stream,7F 45 4C 46,0,FALSE,1,Executable and Linkable Format,other,none
+png,application/octet-stream,89 50 4E 47 0D 0A 1A 0A,0,FALSE,1,Image encoded in the Portable Network Graphics format,other,none
+hdf4,application/octet-stream,0E 03 13 01,0,FALSE,1,Data stored in version 4 of the Hierarchical Data Format .,other,none
+h4,application/octet-stream,0E 03 13 01,0,FALSE,1,Data stored in version 4 of the Hierarchical Data Format .,other,none
+hdf5,application/octet-stream,89 48 44 46 0D 0A 1A 0A,51210242048,FALSE,1,Data stored in version 5 of the Hierarchical Data Format .,other,none
+h5,application/octet-stream,89 48 44 46 0D 0A 1A 0A,51210242048,FALSE,1,Data stored in version 5 of the Hierarchical Data Format .,other,none
+com,application/octet-stream,C9,0,FALSE,1,CP/M 3 and higher with overlays,other,none
+class,application/octet-stream,CA FE BA BE,0,FALSE,1,"Java class file , Mach-O Fat Binary",other,none
+txt,application/octet-stream,EF BB BF,0,FALSE,1,"UTF-8 byte order mark , commonly seen in text files.",other,none
+txt,application/octet-stream,FF FE,0,FALSE,2,"UTF-8 byte order mark , commonly seen in text files.",other,none
+txt,application/octet-stream,FE FF,0,FALSE,3,"UTF-8 byte order mark , commonly seen in text files.",other,none
+txt,application/octet-stream,FF FE 00 00,0,FALSE,4,"UTF-8 byte order mark , commonly seen in text files.",other,none
+txt,application/octet-stream,00 00 FE FF,0,FALSE,5,"UTF-8 byte order mark , commonly seen in text files.",other,none
+txt,application/octet-stream,0E FE FF,0,FALSE,6,"UTF-8 byte order mark , commonly seen in text files.",other,none
+,application/octet-stream,2B 2F 76 38,0,FALSE,1,UTF-7 byte order mark for text,other,none
+,application/octet-stream,2B 2F 76 39,0,FALSE,1,UTF-7 byte order mark for text,other,none
+,application/octet-stream,2B 2F 76 2B,0,FALSE,1,UTF-7 byte order mark for text,other,none
+,application/octet-stream,2B 2F 76 2F,0,FALSE,1,UTF-7 byte order mark for text,other,none
+,application/octet-stream,DD 73 66 73,0,FALSE,1,UTF-EBCDIC byte order mark for text,other,none
+,application/octet-stream,FE ED FA CE,1000,FALSE,1,Mach-O binary (32-bit),other,none
+,application/octet-stream,FE ED FA CF,1000,FALSE,1,Mach-O binary (64-bit),other,none
+,application/octet-stream,FE ED FE ED,0,FALSE,1,JKS Javakey Store,other,none
+,application/octet-stream,CE FA ED FE,0,FALSE,1,"Mach-O binary (reverse byte ordering scheme, 32-bit)",other,none
+,application/octet-stream,CF FA ED FE,0,FALSE,1,"Mach-O binary (reverse byte ordering scheme, 64-bit)",other,none
+ps,application/octet-stream,25 21 50 53,0,FALSE,1,PostScript document,other,none
+eps,application/octet-stream,25 21 50 53 2D 41 64 6F 62 65 2D 33 2E 30 20 45 50 53 46 2D 33 2E 30,0,FALSE,1,Encapsulated PostScript file version 3.0,other,none
+eps,application/octet-stream,25 21 50 53 2D 41 64 6F 62 65 2D 33 2E 31 20 45 50 53 46 2D 33 2E 30,0,FALSE,2,Encapsulated PostScript file version 3.0,other,none
+epsf,application/octet-stream,25 21 50 53 2D 41 64 6F 62 65 2D 33 2E 30 20 45 50 53 46 2D 33 2E 30,0,FALSE,1,Encapsulated PostScript file version 3.0,other,none
+epsf,application/octet-stream,25 21 50 53 2D 41 64 6F 62 65 2D 33 2E 31 20 45 50 53 46 2D 33 2E 30,0,FALSE,2,Encapsulated PostScript file version 3.0,other,none
+chm,application/octet-stream,49 54 53 46 03 00 00 00,0,FALSE,1,MS Windows HtmlHelp Data,other,none
+chm,application/octet-stream,60 00 00 00,0,FALSE,2,MS Windows HtmlHelp Data,other,none
+hlp,application/octet-stream,3F 5F,0,FALSE,1,Windows 3.x/95/98 Help file,other,none
+pdf,application/octet-stream,25 50 44 46 2D,0,FALSE,1,PDF document,other,none
+asf,application/octet-stream,30 26 B2 75 8E 66 CF 11,0,FALSE,1,Advanced Systems Format,other,none
+asf,application/octet-stream,A6 D9 00 AA 00 62 CE 6C,0,FALSE,2,Advanced Systems Format,other,none
+wma,application/octet-stream,30 26 B2 75 8E 66 CF 11,0,FALSE,1,Advanced Systems Format,other,none
+wma,application/octet-stream,A6 D9 00 AA 00 62 CE 6C,0,FALSE,2,Advanced Systems Format,other,none
+wmv,application/octet-stream,30 26 B2 75 8E 66 CF 11,0,FALSE,1,Advanced Systems Format,other,none
+wmv,application/octet-stream,A6 D9 00 AA 00 62 CE 6C,0,FALSE,2,Advanced Systems Format,other,none
+,application/octet-stream,24 53 44 49 30 30 30 31,0,FALSE,1,"System Deployment Image , a disk image format used by Microsoft",other,none
+ogg,application/octet-stream,4F 67 67 53,0,FALSE,1,"Ogg , an open source media container format",other,none
+oga,application/octet-stream,4F 67 67 53,0,FALSE,1,"Ogg , an open source media container format",other,none
+ogv,application/octet-stream,4F 67 67 53,0,FALSE,1,"Ogg , an open source media container format",other,none
+psd,application/octet-stream,38 42 50 53,0,FALSE,1,"Photoshop Document file, Adobe Photoshop 's native file format",other,none
+wav,application/octet-stream,52 49 46 46 ?? ?? ?? ??,0,TRUE,1,Waveform Audio File Format,other,none
+wav,application/octet-stream,57 41 56 45,0,FALSE,2,Waveform Audio File Format,other,none
+avi,application/octet-stream,52 49 46 46 ?? ?? ?? ??,0,TRUE,1,Audio Video Interleave video format,other,none
+avi,application/octet-stream,41 56 49 20,0,FALSE,2,Audio Video Interleave video format,other,none
+mp3,application/octet-stream,FF FB,0,FALSE,1,MPEG-1 Layer 3 file without an ID3 tag or with an ID3v 1 tag (which is appended at the end of the file),other,none
+mp3,application/octet-stream,FF F3,0,FALSE,2,MPEG-1 Layer 3 file without an ID3 tag or with an ID3v 1 tag (which is appended at the end of the file),other,none
+mp3,application/octet-stream,FF F2,0,FALSE,3,MPEG-1 Layer 3 file without an ID3 tag or with an ID3v 1 tag (which is appended at the end of the file),other,none
+mp3,application/octet-stream,49 44 33,0,FALSE,4,MPEG-1 Layer 3 file without an ID3 tag or with an ID3v 1 tag (which is appended at the end of the file),other,none
+bmp,application/octet-stream,42 4D,0,FALSE,1,"BMP file, a bitmap format used mostly in the Windows world",other,none
+dib,application/octet-stream,42 4D,0,FALSE,1,"BMP file, a bitmap format used mostly in the Windows world",other,none
+iso,application/octet-stream,43 44 30 30 31,80010880109001,FALSE,1,ISO9660 CD/DVD image file,other,none
+iso,application/octet-stream,45 4D 55 33,0,FALSE,2,ISO9660 CD/DVD image file,other,none
+cdi,application/octet-stream,43 44 30 30 31,59,FALSE,1,CD-i CD image file,other,none
+mgw,application/octet-stream,6D 61 69 6E 2E 62 73,0,FALSE,1,Nintendo Game & Watch image file,other,none
+nes,application/octet-stream,4E 45 53,0,FALSE,1,Nintendo Entertainment System image file,other,none
+nes,application/octet-stream,4E 45 53 1A,0,FALSE,2,Nintendo Entertainment System image file,other,none
+d64,application/octet-stream,A0 32 41 A0 A0 A0,1654,FALSE,1,Commodore 64 1541 disk image (D64 format),other,none
+g64,application/octet-stream,47 53 52 2D 31 35 34 31,0,FALSE,1,Commodore 64 1541 disk image (G64 format),other,none
+d81,application/octet-stream,A0 33 44 A0 A0,61819,FALSE,1,Commodore 64 1581 disk image (D81 format),other,none
+t64,application/octet-stream,43 36 34 20 74 61 70 65 20 69 6D 61 67 65 20 66 69 6C 65,0,FALSE,1,Commodore 64 tape image,other,none
+crt,application/octet-stream,43 36 34 20 43 41 52 54 52 49 44 47 45 20 20 20,0,FALSE,1,Commodore 64 cartridge image,other,none
+crt,application/octet-stream,2D 2D 2D 2D 2D 42 45 47 49 4E 20 43 45 52 54 49 46 49 43 41 54 45 2D 2D 2D 2D 2D,0,FALSE,2,Commodore 64 cartridge image,other,none
+fits,application/octet-stream,53 49 4D 50 4C 45 20 20,0,FALSE,1,Flexible Image Transport System ( FITS ),other,none
+fits,application/octet-stream,3D 20 20 20 20 20 20 20,0,FALSE,2,Flexible Image Transport System ( FITS ),other,none
+fits,application/octet-stream,20 20 20 20 20 20 20 20,0,FALSE,3,Flexible Image Transport System ( FITS ),other,none
+fits,application/octet-stream,20 20 20 20 20 54,0,FALSE,4,Flexible Image Transport System ( FITS ),other,none
+flac,application/octet-stream,66 4C 61 43,0,FALSE,1,Free Lossless Audio Codec,other,none
+mid,application/octet-stream,4D 54 68 64,0,FALSE,1,MIDI sound file,other,none
+midi,application/octet-stream,4D 54 68 64,0,FALSE,1,MIDI sound file,other,none
+doc,application/octet-stream,D0 CF 11 E0 A1 B1 1A E1,0,FALSE,1,"Compound File Binary Format , a container format defined by Microsoft COM. It can contain the equivalent of files and directories. It is used by Windows Installer and for documents in older versions of Microsoft Office .  It can be used by other programs as well that rely on the COM and OLE API's. (0xD0CF11E0 visually resembles ""DOCFILE"".  )",other,none
+doc,application/octet-stream,0D 44 4F 43,0,FALSE,2,"Compound File Binary Format , a container format defined by Microsoft COM. It can contain the equivalent of files and directories. It is used by Windows Installer and for documents in older versions of Microsoft Office .  It can be used by other programs as well that rely on the COM and OLE API's. (0xD0CF11E0 visually resembles ""DOCFILE"".  )",other,none
+xls,application/octet-stream,D0 CF 11 E0 A1 B1 1A E1,0,FALSE,1,"Compound File Binary Format , a container format defined by Microsoft COM. It can contain the equivalent of files and directories. It is used by Windows Installer and for documents in older versions of Microsoft Office .  It can be used by other programs as well that rely on the COM and OLE API's. (0xD0CF11E0 visually resembles ""DOCFILE"".  )",other,none
+ppt,application/octet-stream,D0 CF 11 E0 A1 B1 1A E1,0,FALSE,1,"Compound File Binary Format , a container format defined by Microsoft COM. It can contain the equivalent of files and directories. It is used by Windows Installer and for documents in older versions of Microsoft Office .  It can be used by other programs as well that rely on the COM and OLE API's. (0xD0CF11E0 visually resembles ""DOCFILE"".  )",other,none
+msi,application/octet-stream,D0 CF 11 E0 A1 B1 1A E1,0,FALSE,1,"Compound File Binary Format , a container format defined by Microsoft COM. It can contain the equivalent of files and directories. It is used by Windows Installer and for documents in older versions of Microsoft Office .  It can be used by other programs as well that rely on the COM and OLE API's. (0xD0CF11E0 visually resembles ""DOCFILE"".  )",other,high
+msg,application/octet-stream,D0 CF 11 E0 A1 B1 1A E1,0,FALSE,1,"Compound File Binary Format , a container format defined by Microsoft COM. It can contain the equivalent of files and directories. It is used by Windows Installer and for documents in older versions of Microsoft Office .  It can be used by other programs as well that rely on the COM and OLE API's. (0xD0CF11E0 visually resembles ""DOCFILE"".  )",other,none
+dex,application/octet-stream,64 65 78 0A 30 33 35 00,0,FALSE,1,Dalvik Executable,other,none
+vmdk,application/octet-stream,4B 44 4D,0,FALSE,1,VMDK files,other,none
+vmdk,application/octet-stream,23 20 44 69 73 6B 20 44 65 73 63 72 69 70 74 6F,0,FALSE,2,VMDK files,other,none
+crx,application/octet-stream,43 72 32 34,0,FALSE,1,Google Chrome extension  or packaged app,other,none
+fh8,application/octet-stream,41 47 44 33,0,FALSE,1,FreeHand 8 document,other,none
+toast,application/octet-stream,45 52 02 00 00 00,0,FALSE,1,Roxio Toast disc image file,other,none
+toast,application/octet-stream,8B 45 52 02 00 00 00,0,FALSE,2,Roxio Toast disc image file,other,none
+dmg,application/octet-stream,6B 6F 6C 79,512,FALSE,1,Apple Disk Image file,other,none
+xar,application/octet-stream,78 61 72 21,0,FALSE,1,eXtensible ARchive format,other,none
+dat,application/octet-stream,50 4D 4F 43 43 4D 4F 43,0,FALSE,1,Windows Files And Settings Transfer Repository  See also USMT 3.0 (Win XP)  and USMT 4.0 (Win 7)  User Guides,other,none
+dat,application/octet-stream,72 65 67 66,0,FALSE,2,Windows Files And Settings Transfer Repository  See also USMT 3.0 (Win XP)  and USMT 4.0 (Win 7)  User Guides,other,none
+tar,application/octet-stream,75 73 74 61 72 00 30 30,257,FALSE,1,tar archive,other,none
+tar,application/octet-stream,75 73 74 61 72 20 20 00,257,FALSE,2,tar archive,other,none
+oar,application/octet-stream,4F 41 52 ??,0,TRUE,1,"OAR file archive format, where ?? is the format version.",other,none
+tox,application/octet-stream,74 6F 78 33,0,FALSE,1,Open source portable voxel file,other,none
+mlv,application/octet-stream,4D 4C 56 49,0,FALSE,1,Magic Lantern Video file,other,none
+,application/octet-stream,44 43 4D 01 50 41 33 30,0,FALSE,1,Windows Update Binary Delta Compression file,other,none
+,application/octet-stream,50 41 33 30,0,FALSE,1,Windows Update Binary Delta Compression file,other,none
+7z,application/octet-stream,37 7A BC AF 27 1C,0,FALSE,1,7-Zip File Format,other,none
+gz,application/octet-stream,1F 8B,0,FALSE,1,GZIP compressed file,other,none
+targz,application/octet-stream,1F 8B,0,FALSE,1,GZIP compressed file,other,none
+xz,application/octet-stream,FD 37 7A 58 5A 00,0,FALSE,1,XZ compression utility using LZMA2 compression,other,none
+tarxz,application/octet-stream,FD 37 7A 58 5A 00,0,FALSE,1,XZ compression utility using LZMA2 compression,other,none
+lz4,application/octet-stream,04 22 4D 18,0,FALSE,1,LZ4 Frame Format  Remark: LZ4 block format does not offer any magic bytes.,other,none
+cab,application/octet-stream,4D 53 43 46,0,FALSE,1,Microsoft Cabinet file,other,none
+cab,application/octet-stream,49 53 63 28,0,FALSE,2,Microsoft Cabinet file,other,none
+,application/octet-stream,53 5A 44 44 88 F0 27 33,0,FALSE,1,"Microsoft compressed file in Quantum format, used prior to Windows XP. File can be decompressed using Extract.exe or Expand.exe distributed with earlier versions of Windows. After compression, the last character of the original filename extension is replaced with an underscore , e.g. ‘Setup.exe’ becomes ‘Setup.ex_’.",other,none
+flif,application/octet-stream,46 4C 49 46,0,FALSE,1,Free Lossless Image Format,other,none
+mkv,application/octet-stream,1A 45 DF A3,0,FALSE,1,"Matroska media container, including WebM",other,none
+mka,application/octet-stream,1A 45 DF A3,0,FALSE,1,"Matroska media container, including WebM",other,none
+mks,application/octet-stream,1A 45 DF A3,0,FALSE,1,"Matroska media container, including WebM",other,none
+mk3d,application/octet-stream,1A 45 DF A3,0,FALSE,1,"Matroska media container, including WebM",other,none
+webm,application/octet-stream,1A 45 DF A3,0,FALSE,1,"Matroska media container, including WebM",other,none
+stg,application/octet-stream,4D 49 4C 20,0,FALSE,1,"""SEAN : Session Analysis"" Training file. Also used in compatible software ""Rpw : Rowperfect for Windows"" and ""RP3W : ROWPERFECT3 for Windows"".",other,none
+djvu,application/octet-stream,41 54 26 54 46 4F 52 4D,0,FALSE,1,DjVu document The following byte is either 55 (U) for single-page or 4D (M) for multi-page documents.,other,none
+djvu,application/octet-stream,?? ?? ?? ?? 44 4A 56,0,TRUE,2,DjVu document The following byte is either 55 (U) for single-page or 4D (M) for multi-page documents.,other,none
+djv,application/octet-stream,41 54 26 54 46 4F 52 4D,0,FALSE,1,DjVu document The following byte is either 55 (U) for single-page or 4D (M) for multi-page documents.,other,none
+djv,application/octet-stream,?? ?? ?? ?? 44 4A 56,0,TRUE,2,DjVu document The following byte is either 55 (U) for single-page or 4D (M) for multi-page documents.,other,none
+pem,application/octet-stream,2D 2D 2D 2D 2D 42 45 47 49 4E 20 43 45 52 54 49 46 49 43 41 54 45 2D 2D 2D 2D 2D,0,FALSE,1,PEM encoded X.509 certificate,other,none
+pem,application/octet-stream,2D 2D 2D 2D 2D 42 45 47 49 4E 20 43 45 52 54 49 46 49 43 41 54 45 20 52 45 51 55 45 53 54 2D 2D 2D 2D 2D,0,FALSE,2,PEM encoded X.509 certificate,other,none
+pem,application/octet-stream,2D 2D 2D 2D 2D 42 45 47 49 4E 20 50 52 49 56 41 54 45 20 4B 45 59 2D 2D 2D 2D 2D,0,FALSE,3,PEM encoded X.509 certificate,other,none
+pem,application/octet-stream,2D 2D 2D 2D 2D 42 45 47 49 4E 20 44 53 41 20 50 52 49 56 41 54 45 20 4B 45 59 2D 2D 2D 2D 2D,0,FALSE,4,PEM encoded X.509 certificate,other,none
+pem,application/octet-stream,2D 2D 2D 2D 2D 42 45 47 49 4E 20 52 53 41 20 50 52 49 56 41 54 45 20 4B 45 59 2D 2D 2D 2D 2D,0,FALSE,5,PEM encoded X.509 certificate,other,none
+csr,application/octet-stream,2D 2D 2D 2D 2D 42 45 47 49 4E 20 43 45 52 54 49 46 49 43 41 54 45 20 52 45 51 55 45 53 54 2D 2D 2D 2D 2D,0,FALSE,1,PEM encoded X.509 Certificate Signing Request,other,none
+key,application/octet-stream,2D 2D 2D 2D 2D 42 45 47 49 4E 20 50 52 49 56 41 54 45 20 4B 45 59 2D 2D 2D 2D 2D,0,FALSE,1,PEM encoded X.509 PKCS#8 private key,other,none
+key,application/octet-stream,2D 2D 2D 2D 2D 42 45 47 49 4E 20 44 53 41 20 50 52 49 56 41 54 45 20 4B 45 59 2D 2D 2D 2D 2D,0,FALSE,2,PEM encoded X.509 PKCS#8 private key,other,none
+key,application/octet-stream,2D 2D 2D 2D 2D 42 45 47 49 4E 20 52 53 41 20 50 52 49 56 41 54 45 20 4B 45 59 2D 2D 2D 2D 2D,0,FALSE,3,PEM encoded X.509 PKCS#8 private key,other,none
+ppk,application/octet-stream,50 75 54 54 59 2D 55 73 65 72 2D 4B 65 79 2D 46 69 6C 65 2D 32 3A,0,FALSE,1,PuTTY private key file version 2,other,none
+ppk,application/octet-stream,50 75 54 54 59 2D 55 73 65 72 2D 4B 65 79 2D 46 69 6C 65 2D 33 3A,0,FALSE,2,PuTTY private key file version 2,other,none
+,application/octet-stream,2D 2D 2D 2D 2D 42 45 47 49 4E 20 4F 50 45 4E 53 53 48 20 50 52 49 56 41 54 45 20 4B 45 59 2D 2D 2D 2D 2D,0,FALSE,1,OpenSSH private key file,other,none
+pub,application/octet-stream,2D 2D 2D 2D 2D 42 45 47 49 4E 20 53 53 48 32 20 4B 45 59 2D 2D 2D 2D 2D,0,FALSE,1,OpenSSH public key file,other,none
+dcm,application/octet-stream,44 49 43 4D,128,FALSE,1,DICOM Medical File Format,other,none
+woff,application/octet-stream,77 4F 46 46,0,FALSE,1,WOFF File Format 1.0,other,none
+woff2,application/octet-stream,77 4F 46 32,0,FALSE,1,WOFF File Format 2.0,other,none
+xml,application/octet-stream,3C 3F 78 6D 6C 20,0,FALSE,1,eXtensible Markup Language,other,none
+xml,application/octet-stream,3C 00 3F 00 78 00 6D 00,0,FALSE,2,eXtensible Markup Language,other,none
+xml,application/octet-stream,6C 00 20,0,FALSE,3,eXtensible Markup Language,other,none
+xml,application/octet-stream,00 3C 00 3F 00 78 00 6D,0,FALSE,4,eXtensible Markup Language,other,none
+xml,application/octet-stream,00 6C 00 20,0,FALSE,5,eXtensible Markup Language,other,none
+xml,application/octet-stream,3C 00 00 00 3F 00 00 00,0,FALSE,6,eXtensible Markup Language,other,none
+xml,application/octet-stream,78 00 00 00 6D 00 00 00,0,FALSE,7,eXtensible Markup Language,other,none
+xml,application/octet-stream,6C 00 00 00 20 00 00 00,0,FALSE,8,eXtensible Markup Language,other,none
+xml,application/octet-stream,00 00 00 3C 00 00 00 3F,0,FALSE,9,eXtensible Markup Language,other,none
+xml,application/octet-stream,00 00 00 78 00 00 00 6D,0,FALSE,10,eXtensible Markup Language,other,none
+xml,application/octet-stream,00 00 00 6C 00 00 00 20,0,FALSE,11,eXtensible Markup Language,other,none
+xml,application/octet-stream,4C 6F A7 94 93 40,0,FALSE,12,eXtensible Markup Language,other,none
+wasm,application/octet-stream,00 61 73 6D,0,FALSE,1,WebAssembly binary format,other,none
+lep,application/octet-stream,CF 84 01,0,FALSE,1,Lepton compressed JPEG image,other,none
+swf,application/octet-stream,43 57 53,0,FALSE,1,Adobe Flash .swf,other,none
+swf,application/octet-stream,46 57 53,0,FALSE,2,Adobe Flash .swf,other,none
+deb,application/octet-stream,21 3C 61 72 63 68 3E 0A,0,FALSE,1,linux deb file,other,none
+,application/octet-stream,C0 3B 39 98,0,FALSE,1,Linux EXT3 / EXT4 jbd2 filesystem Journal,other,none
+webp,application/octet-stream,52 49 46 46 ?? ?? ?? ??,0,TRUE,1,"Google WebP image file, where ?? ?? ?? ?? is the file size. More information on WebP File Header",other,none
+webp,application/octet-stream,57 45 42 50,0,FALSE,2,"Google WebP image file, where ?? ?? ?? ?? is the file size. More information on WebP File Header",other,none
+,application/octet-stream,27 05 19 56,0,FALSE,1,U-Boot / uImage. Das U-Boot Universal Boot Loader.,other,none
+rtf,application/octet-stream,7B 5C 72 74 66 31,0,FALSE,1,Rich Text Format,other,none
+,application/octet-stream,54 41 50 45,0,FALSE,1,Microsoft Tape Format,other,none
+ts,application/octet-stream,47,178188,FALSE,1,MPEG Transport Stream (MPEG-2 Part 1),other,none
+tsv,application/octet-stream,47,178188,FALSE,1,MPEG Transport Stream (MPEG-2 Part 1),other,none
+tsa,application/octet-stream,47,178188,FALSE,1,MPEG Transport Stream (MPEG-2 Part 1),other,none
+mpg,application/octet-stream,47,178188,FALSE,1,MPEG Transport Stream (MPEG-2 Part 1),other,none
+mpg,application/octet-stream,00 00 01 BA,0,FALSE,2,MPEG Transport Stream (MPEG-2 Part 1),other,none
+mpg,application/octet-stream,00 00 01 B3,0,FALSE,3,MPEG Transport Stream (MPEG-2 Part 1),other,none
+mpeg,application/octet-stream,47,178188,FALSE,1,MPEG Transport Stream (MPEG-2 Part 1),other,none
+mpeg,application/octet-stream,00 00 01 BA,0,FALSE,2,MPEG Transport Stream (MPEG-2 Part 1),other,none
+mpeg,application/octet-stream,00 00 01 B3,0,FALSE,3,MPEG Transport Stream (MPEG-2 Part 1),other,none
+m2p,application/octet-stream,00 00 01 BA,0,FALSE,1,MPEG Program Stream (MPEG-1 Part 1 (essentially identical) and MPEG-2 Part 1),other,none
+vob,application/octet-stream,00 00 01 BA,0,FALSE,1,MPEG Program Stream (MPEG-1 Part 1 (essentially identical) and MPEG-2 Part 1),other,none
+mp4,application/octet-stream,66 74 79 70 69 73 6F 6D,4,FALSE,1,ISO Base Media file (MPEG-4),other,none
+mp4,application/octet-stream,66 74 79 70 4D 53 4E 56,4,FALSE,2,ISO Base Media file (MPEG-4),other,none
+zlib,application/octet-stream,78 01,0,FALSE,1,No Compression (no preset dictionary),other,none
+zlib,application/octet-stream,78 5E,0,FALSE,2,No Compression (no preset dictionary),other,none
+zlib,application/octet-stream,78 9C,0,FALSE,3,No Compression (no preset dictionary),other,none
+zlib,application/octet-stream,78 DA,0,FALSE,4,No Compression (no preset dictionary),other,none
+zlib,application/octet-stream,78 20,0,FALSE,5,No Compression (no preset dictionary),other,none
+zlib,application/octet-stream,78 7D,0,FALSE,6,No Compression (no preset dictionary),other,none
+zlib,application/octet-stream,78 BB,0,FALSE,7,No Compression (no preset dictionary),other,none
+zlib,application/octet-stream,78 F9,0,FALSE,8,No Compression (no preset dictionary),other,none
+lzfse,application/octet-stream,62 76 78 32,0,FALSE,1,LZFSE - Lempel-Ziv style data compression algorithm using Finite State Entropy coding. OSS by Apple.,other,none
+orc,application/octet-stream,4F 52 43,0,FALSE,1,Apache ORC (Optimized Row Columnar) file format,other,none
+avro,application/octet-stream,4F 62 6A 01,0,FALSE,1,Apache Avro binary file format,other,none
+rc,application/octet-stream,53 45 51 36,0,FALSE,1,RCFile columnar file format,other,none
+rbxl,application/octet-stream,3C 72 6F 62 6C 6F 78 21,0,FALSE,1,Roblox place file,other,none
+p25,application/octet-stream,65 87 78 56,0,FALSE,1,PhotoCap Object Templates,other,none
+obt,application/octet-stream,65 87 78 56,0,FALSE,1,PhotoCap Object Templates,other,none
+pcv,application/octet-stream,55 55 AA AA,0,FALSE,1,PhotoCap Vector,other,none
+pbt,application/octet-stream,78 56 34,0,FALSE,1,PhotoCap Template,other,none
+pdt,application/octet-stream,78 56 34,0,FALSE,1,PhotoCap Template,other,none
+pea,application/octet-stream,78 56 34,0,FALSE,1,PhotoCap Template,other,none
+peb,application/octet-stream,78 56 34,0,FALSE,1,PhotoCap Template,other,none
+pet,application/octet-stream,78 56 34,0,FALSE,1,PhotoCap Template,other,none
+pgt,application/octet-stream,78 56 34,0,FALSE,1,PhotoCap Template,other,none
+pict,application/octet-stream,78 56 34,0,FALSE,1,PhotoCap Template,other,none
+pjt,application/octet-stream,78 56 34,0,FALSE,1,PhotoCap Template,other,none
+pkt,application/octet-stream,78 56 34,0,FALSE,1,PhotoCap Template,other,none
+pmt,application/octet-stream,78 56 34,0,FALSE,1,PhotoCap Template,other,none
+,application/octet-stream,50 41 52 31,0,FALSE,1,Apache Parquet columnar file format,other,none
+ez2,application/octet-stream,45 4D 58 32,0,FALSE,1,Emulator Emaxsynth samples,other,none
+ez3,application/octet-stream,45 4D 55 33,0,FALSE,1,Emulator III synth samples,other,none
+luac,application/octet-stream,1B 4C 75 61,0,FALSE,1,Lua bytecode,other,none
+alias,application/octet-stream,62 6F 6F 6B 00 00 00 00,0,FALSE,1,macOS file Alias  ( Symbolic link ),other,none
+alias,application/octet-stream,6D 61 72 6B 00 00 00 00,0,FALSE,2,macOS file Alias  ( Symbolic link ),other,none
+,application/octet-stream,62 6F 6F 6B,0,FALSE,1,macOS bookmark format,other,none
+,application/octet-stream,5B 5A 6F 6E 65 54 72 61,0,FALSE,1,Microsoft Zone Identifier for URL Security Zones,other,none
+,application/octet-stream,6E 73 66 65 72 5D,0,FALSE,1,Microsoft Zone Identifier for URL Security Zones,other,none
+eml,application/octet-stream,52 65 63 65 69 76 65 64,0,FALSE,1,Email Message var5 [citation needed],other,none
+eml,application/octet-stream,3A,0,FALSE,2,Email Message var5 [citation needed],other,none
+tde,application/octet-stream,20 02 01 62 A0 1E AB 07,0,FALSE,1,Tableau Datasource,other,none
+tde,application/octet-stream,02 00 00 00,0,FALSE,2,Tableau Datasource,other,none
+kdb,application/octet-stream,37 48 03 02 00 00 00 00,0,FALSE,1,KDB file,other,none
+kdb,application/octet-stream,58 35 30 39 4B 45 59,0,FALSE,2,KDB file,other,none
+pgp,application/octet-stream,85 ?? ?? 03,0,TRUE,1,PGP file,other,none
+zst,application/octet-stream,28 B5 2F FD,0,FALSE,1,Zstandard compress,other,none
+sml,application/octet-stream,3A 29 0A,0,FALSE,1,Smile file,other,none
+,application/octet-stream,4A 6F 79 21,0,FALSE,1,Preferred Executable Format,other,none
+vpk,application/octet-stream,34 12 AA 55,0,FALSE,1,"VPK file, used to store game data for some Source Engine games",other,none
+ace,application/octet-stream,2A 2A 41 43 45 2A 2A,7,FALSE,1,ACE (compressed file format) [citation needed],other,none
+arj,application/octet-stream,60 EA,0,FALSE,1,ARJ,other,none
+,application/octet-stream,4B 57 41 4A,0,FALSE,1,Windows 3.1x Compressed File,other,none
+,application/octet-stream,53 5A 44 44,0,FALSE,1,Windows 9x Compressed File,other,none
+zoo,application/octet-stream,5A 4F 4F,0,FALSE,1,Zoo (file format),other,none
+pbm,application/octet-stream,50 31 0A,0,FALSE,1,Portable bitmap ASCII,other,none
+pbm,application/octet-stream,50 34 0A,0,FALSE,2,Portable bitmap ASCII,other,none
+pgm,application/octet-stream,50 32 0A,0,FALSE,1,Portable Gray Map ASCII,other,none
+pgm,application/octet-stream,50 35 0A,0,FALSE,2,Portable Gray Map ASCII,other,none
+ppm,application/octet-stream,50 33 0A,0,FALSE,1,Portable Pixmap ASCII,other,none
+ppm,application/octet-stream,50 36 0A,0,FALSE,2,Portable Pixmap ASCII,other,none
+wmf,application/octet-stream,D7 CD C6 9A,0,FALSE,1,Windows Metafile,other,none
+xcf,application/octet-stream,67 69 6D 70 20 78 63 66,0,FALSE,1,XCF (file format),other,none
+xpm,application/octet-stream,2F 2A 20 58 50 4D 20 2A,0,FALSE,1,X PixMap,other,none
+xpm,application/octet-stream,2F,0,FALSE,2,X PixMap,other,none
+aff,application/octet-stream,41 46 46,0,FALSE,1,Advanced Forensics Format,other,none
+ex01,application/octet-stream,45 56 46 32,0,FALSE,1,EnCase EWF version 2 format,other,none
+e01,application/octet-stream,45 56 46,0,FALSE,1,EnCase EWF version 1 format,other,none
+qcow,application/octet-stream,51 46 49,0,FALSE,1,qcow file format,other,none
+ani,application/octet-stream,52 49 46 46 ?? ?? ?? ??,0,TRUE,1,Animated cursor,other,none
+ani,application/octet-stream,41 43 4F 4E,0,FALSE,2,Animated cursor,other,none
+cda,application/octet-stream,52 49 46 46 ?? ?? ?? ??,0,TRUE,1,.cda file,other,none
+cda,application/octet-stream,43 44 44 41,0,FALSE,2,.cda file,other,none
+qcp,application/octet-stream,52 49 46 46 ?? ?? ?? ??,0,TRUE,1,Qualcomm PureVoice file format,other,none
+qcp,application/octet-stream,51 4C 43 4D,0,FALSE,2,Qualcomm PureVoice file format,other,none
+dcr,application/octet-stream,52 49 46 58 ?? ?? ?? ??,0,TRUE,1,Adobe Shockwave,other,none
+dcr,application/octet-stream,46 47 44 4D,0,FALSE,2,Adobe Shockwave,other,none
+dcr,application/octet-stream,58 46 49 52 ?? ?? ?? ??,0,TRUE,3,Adobe Shockwave,other,none
+dcr,application/octet-stream,4D 44 47 46,0,FALSE,4,Adobe Shockwave,other,none
+dir,application/octet-stream,52 49 46 58 ?? ?? ?? ??,0,TRUE,1,Macromedia Director file format,other,none
+dir,application/octet-stream,4D 56 39 33,0,FALSE,2,Macromedia Director file format,other,none
+dir,application/octet-stream,58 46 49 52 ?? ?? ?? ??,0,TRUE,3,Macromedia Director file format,other,none
+dir,application/octet-stream,33 39 56 4D,0,FALSE,4,Macromedia Director file format,other,none
+dxr,application/octet-stream,52 49 46 58 ?? ?? ?? ??,0,TRUE,1,Macromedia Director file format,other,none
+dxr,application/octet-stream,4D 56 39 33,0,FALSE,2,Macromedia Director file format,other,none
+dxr,application/octet-stream,58 46 49 52 ?? ?? ?? ??,0,TRUE,3,Macromedia Director file format,other,none
+dxr,application/octet-stream,33 39 56 4D,0,FALSE,4,Macromedia Director file format,other,none
+drx,application/octet-stream,52 49 46 58 ?? ?? ?? ??,0,TRUE,1,Macromedia Director file format,other,none
+drx,application/octet-stream,4D 56 39 33,0,FALSE,2,Macromedia Director file format,other,none
+drx,application/octet-stream,58 46 49 52 ?? ?? ?? ??,0,TRUE,3,Macromedia Director file format,other,none
+drx,application/octet-stream,33 39 56 4D,0,FALSE,4,Macromedia Director file format,other,none
+flv,application/octet-stream,46 4C 56,0,FALSE,1,Flash Video file,other,none
+vdi,application/octet-stream,3C 3C 3C 20 4F 72 61 63,0,FALSE,1,VirtualBox Virtual Hard Disk file format,other,none
+vdi,application/octet-stream,6C 65 20 56 4D 20 56 69,0,FALSE,2,VirtualBox Virtual Hard Disk file format,other,none
+vdi,application/octet-stream,72 74 75 61 6C 42 6F 78,0,FALSE,3,VirtualBox Virtual Hard Disk file format,other,none
+vdi,application/octet-stream,20 44 69 73 6B 20 49 6D,0,FALSE,4,VirtualBox Virtual Hard Disk file format,other,none
+vdi,application/octet-stream,61 67 65 20 3E 3E 3E,0,FALSE,5,VirtualBox Virtual Hard Disk file format,other,none
+vhd,application/octet-stream,63 6F 6E 65 63 74 69 78,0,FALSE,1,Windows Virtual PC Virtual Hard Disk file format,other,none
+vhdx,application/octet-stream,76 68 64 78 66 69 6C 65,0,FALSE,1,Windows Virtual PC Windows 8 Virtual Hard Disk file format,other,none
+isz,application/octet-stream,49 73 5A 21,0,FALSE,1,Compressed ISO image,other,none
+daa,application/octet-stream,44 41 41,0,FALSE,1,Direct Access Archive PowerISO,other,none
+evt,application/octet-stream,4C 66 4C 65,0,FALSE,1,Windows Event Viewer file format,other,none
+evtx,application/octet-stream,45 6C 66 46 69 6C 65,0,FALSE,1,Windows Event Viewer XML file format,other,none
+sdb,application/octet-stream,73 64 62 66,8,FALSE,1,Windows customized database,other,none
+grp,application/octet-stream,50 4D 43 43,0,FALSE,1,Windows 3.x Program Manager Program Group file format,other,none
+icm,application/octet-stream,4B 43 4D 53,0,FALSE,1,ICC profile,other,none
+hiv,application/octet-stream,72 65 67 66,0,FALSE,1,Windows Registry file,other,none
+pst,application/octet-stream,21 42 44 4E,0,FALSE,1,Microsoft Outlook Personal Storage Table file,other,none
+drc,application/octet-stream,44 52 41 43 4F,0,FALSE,1,3D model compressed with Google Draco,other,none
+grib,application/octet-stream,47 52 49 42,0,FALSE,1,Gridded data (commonly weather observations or forecasts) in the WMO GRIB or GRIB2 format,other,none
+grib2,application/octet-stream,47 52 49 42,0,FALSE,1,Gridded data (commonly weather observations or forecasts) in the WMO GRIB or GRIB2 format,other,none
+blend,application/octet-stream,42 4C 45 4E 44 45 52,0,FALSE,1,Blender File Format,other,none
+jxl,application/octet-stream,00 00 00 0C 4A 58 4C 20 0D 0A 87 0A,0,FALSE,1,Image encoded in the JPEG XL format,other,none
+jxl,application/octet-stream,FF 0A,0,FALSE,2,Image encoded in the JPEG XL format,other,none
+ttf,application/octet-stream,00 01 00 00 00,0,FALSE,1,TrueType font,other,none
+tte,application/octet-stream,00 01 00 00 00,0,FALSE,1,TrueType font,other,none
+dfont,application/octet-stream,00 01 00 00 00,0,FALSE,1,TrueType font,other,none
+otf,application/octet-stream,4F 54 54 4F,0,FALSE,1,OpenType font,other,none
+,application/octet-stream,23 25 4D 6F 64 75 6C 65,0,FALSE,1,Modulefile for Environment Modules,other,none
+wim,application/octet-stream,4D 53 57 49 4D 00 00 00,0,FALSE,1,Windows Imaging Format file,other,none
+wim,application/octet-stream,D0 00 00 00 00,0,FALSE,2,Windows Imaging Format file,other,none
+swm,application/octet-stream,4D 53 57 49 4D 00 00 00,0,FALSE,1,Windows Imaging Format file,other,none
+swm,application/octet-stream,D0 00 00 00 00,0,FALSE,2,Windows Imaging Format file,other,none
+esd,application/octet-stream,4D 53 57 49 4D 00 00 00,0,FALSE,1,Windows Imaging Format file,other,none
+esd,application/octet-stream,D0 00 00 00 00,0,FALSE,2,Windows Imaging Format file,other,none
+slob,application/octet-stream,21 2D 31 53 4C 4F 42 1F,0,FALSE,1,"Slob (sorted list of Object storages ) is a read-only, compressed data store with dictionary-like interface",other,none
+,application/octet-stream,AC ED,0,FALSE,1,Serialized Java Data,other,none
+voc,application/octet-stream,43 72 65 61 74 69 76 65 20 56 6F 69 63 65 20 46 69 6C 65 1A 1A 00,0,FALSE,1,Creative Voice file,other,none
+au,application/octet-stream,2E 73 6E 64,0,FALSE,1,Au audio file format,other,none
+,application/octet-stream,DB 0A CE 00,0,FALSE,1,OpenGL Iris Perfomer .PFB (Performer Fast Binary),other,none
+hazelrules,application/octet-stream,48 5A 4C 52 00 00 00 18,0,FALSE,1,Noodlesoft Hazel,other,none
+flp,application/octet-stream,46 4C 68 64,0,FALSE,1,FL Studio Project File,other,none
+flm,application/octet-stream,31 30 4C 46,0,FALSE,1,FL Studio Mobile Project File,other,none
+,application/octet-stream,52 4B 4D 43 32 31 30,0,FALSE,1,Vormetric Encryption DPM Version 2.1 Header,other,none
+mny,application/octet-stream,00 01 00 00 4D 53 49 53 41 4D 20 44 61 74 61 62 61 73 65,0,FALSE,1,Microsoft Money file,other,none
+accdb,application/octet-stream,00 01 00 00 53 74 61 6E 64 61 72 64 20 41 43 45 20 44 42,0,FALSE,1,Microsoft Access 2007 Database,other,none
+mdb,application/octet-stream,00 01 00 00 53 74 61 6E 64 61 72 64 20 4A 65 74 20 44 42,0,FALSE,1,Microsoft Access Database,other,none
+drw,application/octet-stream,01 FF 02 04 03 02,0,FALSE,1,Micrografx vector graphic file,other,none
+dss,application/octet-stream,02 64 73 73,0,FALSE,1,"Digital Speech Standard (Olympus, Grundig, & Phillips) v2",other,none
+dss,application/octet-stream,03 64 73 73,0,FALSE,2,"Digital Speech Standard (Olympus, Grundig, & Phillips) v2",other,none
+adx,application/octet-stream,03 00 00 00 41 50 50 52,0,FALSE,1,Approach index file,other,none
+indd,application/octet-stream,06 06 ED F5 D8 1D 46 E5 BD 31 EF E7 FE 74 B7 1D,0,FALSE,1,Adobe InDesign document,other,none
+mxf,application/octet-stream,06 0E 2B 34 02 05 01 01 0D 01 02 01 01 02,65535,FALSE,1,Material Exchange Format file,other,none
+skf,application/octet-stream,07 53 4B 46,0,FALSE,1,SkinCrafter skin file,other,none
+dtd,application/octet-stream,07 64 74 32 64 64 74 64,0,FALSE,1,DesignTools 2D Design file,other,none
+wallet,application/octet-stream,0A 16 6F 72 67 2E 62 69 74 63 6F 69 6E 2E 70 72,0,FALSE,1,MultiBit Bitcoin wallet file,other,none
+nri,application/octet-stream,0E 4E 65 72 6F 49 53 4F,0,FALSE,1,Nero CD Compilation,other,none
+wks,application/octet-stream,0E 57 4B 53,0,FALSE,1,DeskMate Worksheet,other,none
+sib,application/octet-stream,0F 53 49 42 45 4C 49 55 53,0,FALSE,1,Sibelius Music - Score file,other,none
+dsp,application/octet-stream,23 20 4D 69 63 72 6F 73 6F 66 74 20 44 65 76 65 6C 6F 70 65 72 20 53 74 75 64 69 6F,0,FALSE,1,Microsoft Developer Studio project file,other,none
+amr,application/octet-stream,23 21 41 4D 52,0,FALSE,1,"Adaptive Multi-Rate ACELP (Algebraic Code Excited Linear Prediction) Codec, commonly audio format with GSM cell phones.",other,none
+sil,application/octet-stream,23 21 53 49 4C 4B 0A,0,FALSE,1,Audio compression format developed by Skype,other,none
+hdr,application/octet-stream,23 3F 52 41 44 49 41 4E 43 45 0A,0,FALSE,1,Radiance High Dynamic Range image file,other,none
+hdr,application/octet-stream,6E 69 31 00,344,FALSE,2,Radiance High Dynamic Range image file,other,none
+vbe,application/octet-stream,23 40 7E 5E,0,FALSE,1,VBScript Encoded script,other,none
+cdb,application/octet-stream,0D F0 1D C0,0,FALSE,1,MikroTik WinBox Connection Database (Address Book),other,none
+,application/octet-stream,23 45 58 54 4D 33 55,0,FALSE,1,Multimedia playlist,other,none
+m,application/octet-stream,6D 64 66 00,0,FALSE,1,"M2 Archive, used by game developer M2",other,none
+pak,application/octet-stream,4B 50 4B 41,0,FALSE,1,Capcom RE Engine game data archives,other,none
+arc,application/octet-stream,41 52 43,0,FALSE,1,Capcom MT Framework game data archives,other,none
+arc,application/octet-stream,41 72 43,0,FALSE,2,Capcom MT Framework game data archives,other,none
+arc,application/octet-stream,1A 08,0,FALSE,3,Capcom MT Framework game data archives,other,none
+cdx,application/octet-stream,41 72 43,0,FALSE,1,FreeArc file,other,none
+pl,application/octet-stream,D0 4F 50 53,0,FALSE,1,Interleaf PrinterLeaf / WorldView document format (now Broadvision QuickSilver),other,none
+nii,application/octet-stream,6E 2B 31 00,344,FALSE,1,"Single file NIfTI format, used extensively in biomedical imaging.",other,none
+,application/octet-stream,52 41 46 36 34,0,FALSE,1,Report Builder file from Digital Metaphors,other,none
+,application/octet-stream,56 49 53 33,0,FALSE,1,Resource file Visionaire 3.x Engine,other,none
+hl7,application/octet-stream,4D 53 48 7C,0,FALSE,1,Health Level Seven (HL7) Standard for electronic data exchange,other,none
+hl7,application/octet-stream,42 53 48 7C,0,FALSE,2,Health Level Seven (HL7) Standard for electronic data exchange,other,none
+pwrdata,application/octet-stream,70 77 72 64 61 74 61,0,FALSE,1,SAP Power Monitor (version 1.1.0 and higher) data file,other,none
+asc,application/octet-stream,2D 2D 2D 2D 2D 42 45 47 49 4E 20 50 47 50 20 50 55 42 4C 49 43 20 4B 45 49 20 42 4C 4F 43 4B 2D 2D 2D 2D 2D,0,FALSE,1,Armored PGP public key,other,none
+cnt,application/octet-stream,3A 42 61 73 65 20,0,FALSE,1,Windows 3.x - Windows 95 Help Contents,other,none
+vdr,application/octet-stream,52 49 46 46 ?? ?? ?? ?? 56 44 52 4D,0,TRUE,1,VirtualDub,other,none
+trd,application/octet-stream,52 59 46 46 ?? ?? ?? ?? 54 52 49 44,0,TRUE,1,TrID,other,none
+shw,application/octet-stream,52 49 46 46 ?? ?? ?? ?? 73 68 77 34,0,TRUE,1,Corel SHOW! 4.0,other,none
+shw,application/octet-stream,52 49 46 46 ?? ?? ?? ?? 73 68 77 35,0,TRUE,2,Corel SHOW! 4.0,other,none
+shr,application/octet-stream,52 49 46 46 ?? ?? ?? ?? 73 68 72 35,0,TRUE,1,Corel SHOW! 5.0 player,other,none
+shb,application/octet-stream,52 49 46 46 ?? ?? ?? ?? 73 68 62 35,0,TRUE,1,Corel SHOW! 5.0 background,other,none
+mmm,application/octet-stream,52 49 46 46 ?? ?? ?? ?? 52 4D 4D 50,0,TRUE,1,MacroMind Multimedia Movie or Microsoft Multimedia Movie,other,none
+e57,application/octet-stream,41 53 54 4D 2D 45 35 37,0,FALSE,1,ASTM E57 3D file format,other,none
+ucas,application/octet-stream,8C 0A 00,0,FALSE,1,Unreal Engine Compressed Asset Storage file,other,none
+utoc,application/octet-stream,2D 3D 3D 2D 2D 3D 3D 2D 2D 3D 3D 2D 2D 3D 3D 2D,0,FALSE,1,Unreal Engine Table of Contents file,other,none
+p00,application/octet-stream,43 36 34 46 69 6C 65 00,0,FALSE,1,Commodore 64 binary file (source: *.P00 format for Power64 emulator),other,none
+p02,application/octet-stream,43 36 34 46 69 6C 65 00,0,FALSE,1,Commodore 64 binary file (source: *.P00 format for Power64 emulator),other,none
+,application/octet-stream,44 55 43 4B,8,FALSE,1,DuckDB database file (source: Source code),other,none
+journal,application/octet-stream,4C 50 4B 53 48 48 52 48,0,FALSE,1,journald log file,other,none
+,application/octet-stream,E0 01 00 EA,0,FALSE,1,Ion (serialization format) binary encoding,other,none
+,application/octet-stream,42 53 44 49 46 46 34 30,0,FALSE,1,bsdiff binary patch,other,none
+hpapp,application/octet-stream,7C 61 8A B2,0,FALSE,1,HP Prime graphing calculator file,other,none
+hpprgm,application/octet-stream,7C 61 8A B2,0,FALSE,1,HP Prime graphing calculator file,other,none
+hpsettings,application/octet-stream,7C 61 8A B2,0,FALSE,1,HP Prime graphing calculator file,other,none
+czx,application/octet-stream,43 5A 50 58,0,FALSE,1,Czip X encrypted archive (v4.x),other,none
+pch,application/octet-stream,43 50 43 48,0,FALSE,1,Clang pre-compiled header,other,none
+glb,application/octet-stream,67 6C 54 46,0,FALSE,1,Binary glTF file,other,none
+heif,application/octet-stream,00 00 00 18 66 74 79 70 68 65 69 63 00 00 00 00,0,FALSE,1,Apple HEIF image file,other,none
